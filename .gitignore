@@ -1,0 +1,9 @@
+.stack-work/*
+HAL.cabal
+stack.yaml.lock
+out/*
+tmp/*
+.idea/*
+hal
+*.iml
+*.lisp
